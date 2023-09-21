@@ -2,4 +2,4 @@
 Delete any discord webhook!
 
 
-# Support in .gg/sample
+## Support in .gg/sample
